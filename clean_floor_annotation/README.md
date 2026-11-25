@@ -1,4 +1,4 @@
-# Floor
+# clean_floor
 **The typesafe, reactive and lightweight SQLite abstraction for your Flutter applications (iOS, Android, Linux, macOS, Windows)**
 
 Don't import this package!
@@ -12,7 +12,7 @@ The library's name derives from the following.
 Where *fl* also gives a pointer that the library is used in the Flutter context.
 
 ## Bugs and Feedback
-For bugs, questions and discussions please use [Github Issues](https://github.com/pinchbv/floor/issues).
+For bugs, questions and discussions please use [Github Issues](https://github.com/icecode-ai/clean_floor/issues).
 
 ## License
     Copyright 2022 The Floor Project Authors
