@@ -1,0 +1,22 @@
+name: clean_floor_common
+description: >
+  The typesafe, reactive, and lightweight SQLite abstraction for your Flutter applications.
+  This library is the runtime dependency.
+version: 0.0.1
+homepage: https://github.com/icecode-ai/clean_floor
+repository: https://github.com/icecode-ai/clean_floor
+issue_tracker: https://github.com/icecode-ai/clean_floor/issues
+
+environment:
+  sdk: ^3.14.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  clean_floor_annotation: ^0.0.1
+  sqflite_sqlcipher: ^3.4.1
+  sqlparser: ^0.45.1
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
