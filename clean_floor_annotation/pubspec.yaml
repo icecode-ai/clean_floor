@@ -1,7 +1,7 @@
 name: clean_floor_annotation
 description: >
   The typesafe, reactive, and lightweight SQLite abstraction for your Flutter applications.
-  Don't use this package directly. Import the floor package instead.
+  Don't use this package directly. Import the clean_floor package instead.
 version: 0.0.1
 homepage: https://github.com/icecode-ai/clean_floor
 repository: https://github.com/icecode-ai/clean_floor
