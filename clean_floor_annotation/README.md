@@ -1,8 +1,8 @@
-# clean_floor
+# clean_floor_annotation
 **The typesafe, reactive and lightweight SQLite abstraction for your Flutter applications (iOS, Android, Linux, macOS, Windows)**
 
 Don't import this package!
-You should be using the [floor](https://pub.dartlang.org/packages/floor) package, which comes with all the annotations.
+You should be using the [clean_floor](https://pub.dev/packages/clean_floor) package, which comes with all the annotations.
 Separating the packages brings some benefits for developing the library but not for the users of it.
 
 ---

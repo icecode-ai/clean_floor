@@ -1,3 +1,4 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release.
+* Annotations for entities, DAOs, databases, views, queries, transactions and type converters.
